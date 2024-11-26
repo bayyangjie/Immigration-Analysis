@@ -18,7 +18,7 @@ The dataset was retrieved from the Pew Research Centre online database and it co
 ## Data cleaning 
 The first row was deleted and the second row which contains the various column headers was set as the column labels. 
 
-## Tableau Dashboard
+## Exploring my Tableau Dashboards
 [View the dashboard on Tableau Public]: https://public.tableau.com/views/Global_immigrants_analysis/Dashboard2?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Clone this repository to your local machine:
