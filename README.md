@@ -1,6 +1,6 @@
-Welcome to my Tableau Dashboard repository!
-
 # Tableau Dashboard Repository
+
+Welcome to my Tableau Dashboard repository!
 
 # Introduction
 This repository hosts a variety of differnent Tableau dashboard analysis that have been done. The dashboards provide insights to a diverse range of dataset topics. 
