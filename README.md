@@ -1,6 +1,6 @@
 # Tableau Dashboard Repository
 
-![Alt text](/Users/ASUS/Downloads/tableau-software-logo-5oxtp9rcza9gweeu.png)
+!(tableau-software-logo-5oxtp9rcza9gweeu.png)
 
 Welcome to my Tableau Dashboard repository!
 
