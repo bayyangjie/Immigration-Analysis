@@ -1,3 +1,5 @@
+Welcome to my Tableau Dashboard repository!
+
 # Tableau Dashboard Repository
 
 # Introduction
