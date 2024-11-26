@@ -1,6 +1,3 @@
-# Immigration-Analysis
-
-
 ## Background
 
 Migration has grown steadily in recent decades with more than 280 million proplr ot 3.6% of the world's population being international migrants. Often people move and take their religion with them, contributing to gradual changes in their new country’s religious makeup. Sometimes, though, migrants shed the religion they grew up with and adopt their new host country’s majority religion, some other religion or no religion. This study is an exploratory analysis aimed at understanding the religious composition of global immigrants from 1990 to 2020. 
