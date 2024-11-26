@@ -22,7 +22,7 @@ The first row was deleted and the second row which contains the various column h
 [View the dashboard on Tableau Public]: https://public.tableau.com/views/Global_immigrants_analysis/Dashboard2?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Clone this repository to your local machine:
-git clone 
+git clone https://github.com/bayyangjie/Tableau-Projects/Immigrant Global Analysis.git
 
 Download the Tableau workbook and open using Tableau Desktop to interact with the dashboard and explore the analysis.
 
