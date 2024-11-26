@@ -18,16 +18,6 @@ The dataset was retrieved from the Pew Research Centre online database and it co
 ## Data cleaning 
 The first row was deleted and the second row which contains the various column headers was set as the column labels. 
 
-## Exploring my Tableau Dashboards
-[View the dashboard on Tableau Public]: https://public.tableau.com/views/Global_immigrants_analysis/Dashboard2?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-Clone this repository to your local machine:
-git clone https://github.com/bayyangjie/Tableau-Projects.git
-
-Download the Tableau workbook and open using Tableau Desktop to interact with the dashboard and explore the analysis.
-
-Examine the dataset file (df_pew.csv/df_pew.xls) to understand the dataset used in the project.
-
 ## Findings
 Throughout the years, Europe and Asia Pacific remain as the two regions with the largest composition of immigrants. The global population of immigrants also show an upward trend from 1990 to 2020. The amount of immigrants (incoming and outgoing) remain relatively flat for North America while the growth of immigrant population shows an increasing trend for the other regions. Asia Pacific and Europe show the largest increases from 1990 to 2020 as compared to the other regions. 
 
