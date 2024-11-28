@@ -12,7 +12,7 @@ Migration has grown steadily in recent decades surpassing 280 million which is e
 The dataset was retrieved from the Pew Research Centre online database and it contains 9 columns and 26712 rows.
 
 
-## Data processing 
+## Data cleaning 
 The first row was deleted and the second row which contains the various column headers was set as the column labels. 
 
 Entries that are '<10000' in the column variable 'Count' are excluded from the analysis since the scale is very small and might pose as noise to the overall dataset analysis
