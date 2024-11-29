@@ -13,4 +13,3 @@ Tha aim of the analysis is to form patterns and insights of schools in Singapore
 3. How are schools across Singapore spread out amongst the different zones ?
 4. What is the session types of autonomous schools ?
 5. What is the number of each school type in each zone ?
-6. 
