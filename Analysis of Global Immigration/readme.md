@@ -15,6 +15,12 @@ The dataset was retrieved from the Pew Research Centre online database and it co
 ## Data cleaning 
 The first row was deleted and the second row which contains the various column headers was set as the column labels. 
 
+Entries that are '<10000' in the column variable 'Count' are excluded from the analysis since the scale is very small and might pose as noise to the overall dataset analysis
+
+As this analysis considers individual countries when analyzing the religious composition and population spread, the entries under the column variable 'Region' that begin with 'All' are excluded since they represent a combination of all countries under the specific region. 
+
+The same goes for the column variable 'Religion' where entries such as 'All' are excluded as the analysis takes into consideration individual religions instead of using them as a group.
+
 ## Findings
 Throughout the years, Europe and Asia Pacific remain as the two regions with the largest composition of immigrants. The global population of immigrants also show an upward trend from 1990 to 2020. The amount of immigrants (incoming and outgoing) remain relatively flat for North America while the growth of immigrant population shows an increasing trend for the other regions. Asia Pacific and Europe show the largest increases from 1990 to 2020 as compared to the other regions. 
 
