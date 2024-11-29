@@ -1,5 +1,5 @@
 # Introduction
-With the evolving needs and demands of the educational landscape in Singapore, it is crucial for MOE to be able to formulate policies that are well strategized for providing the highest quality of education in all aspects.
+With the evolving needs and demands of the educational landscape in Singapore, it is crucial for MOE to formulate policies that are well strategized for providing the highest quality of education in all aspects.
 
 # About the dataset
 This is a dataset containing general information of schools in Singapore taken from March 2021 to March 2022. The information in the dataset includes address, nearest public transportation of primary, secondary and pre-university schools. 
