@@ -5,7 +5,7 @@ With the evolving needs and demands of the educational landscape in Singapore, i
 This is a dataset containing general information of schools in Singapore taken from March 2021 to March 2022. The information in the dataset includes address, nearest public transportation of primary, secondary and pre-university schools. 
 
 # Objectives
-Tha aim of the analysis is to form patterns and insights amoongst different schools in Singapore based on analysis of various metrics that describe the profile of each school.
+Tha aim of the analysis is to form patterns and insights of schools in Singapore based on analysis of various metrics that describe the profile of each school.
 
  ## Analysis
 1. What is the spread of nature types amongst the school types ? 
