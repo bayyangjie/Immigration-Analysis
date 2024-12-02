@@ -11,5 +11,5 @@ Tha aim of the analysis is to form patterns and insights of schools in Singapore
 1. What is the spread of nature types amongst the school types ? 
 2. What is the proportions of SAP, Autonomous, Gifted and IP based schools in Singapore ? 
 3. What are the proportions of the different schools based on education types in each zone ? 
-4. What is the session types of autonomous schools ?
+4. The number of each school type based on education levels per zone ?
 5. What is the number of each school type in each zone ?
