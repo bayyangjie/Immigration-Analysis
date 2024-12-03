@@ -1,13 +1,10 @@
 # Introduction
-With the many existing schools across the different levels of education in Singapore, it is all the more essential to provide parents/students with an accurate overview of the school in Singapore for them to select a school that is best suited to their requirements. In this analysis, various metrics are covered which includes location of the schools, single sex or co-ed schools, type of programs offered at the school etc. The aim of the analyis is to provide a comprehensive breakdown of all schools ranging from primary schools to junior colleges.
+With the many existing schools across the different levels of education in Singapore, it is all the more essential to provide parents/students with an accurate overview of the school in Singapore for them to select a school that is best suited to their requirements. This analysis serves as a dashboard that can be updated according to changes in the schools structure in Singapore and can be published online for public access. The dashboard breaks down the profiles of all schools in Singapore based on various metrics such as locations, programs offered, single sex/co-ed schools etc.
 
 # About the dataset
 This is a dataset containing general information of schools in Singapore taken from March 2021 to March 2022. The information in the dataset includes address, nearest public transportation of primary, secondary and pre-university schools. 
 
-# Objectives
-Tha aim of the analysis is to form patterns and insights of schools in Singapore based on analysis of various metrics that describe the profile of each school.
-
- ## Analysis
+## Analysis
 1. The spread of education types per town
 2. The number of each school type per town
 3. The number of each school type per zone
