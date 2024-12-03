@@ -34,9 +34,7 @@ There were some data cleaning steps that were performed prior to the visualizati
 - Narrowing down to the nature types of each school type, we can see that government schools (government and government-aided) are mostly co-ed while independent, specialised independent and specialised schools are only either co-ed or girls' school. The number of girls' schools and co-ed schools are the same in all three school types. 
 
 ## Dashboard
-<img width="953" alt="tableau screenshot" src="https://github.com/user-attachments/assets/2ca69c27-8fbd-4923-ac86-01d45c3463df">
-
-<br>
+<img width="953" alt="tableau screenshot" src="https://github.com/user-attachments/assets/2ca69c27-8fbd-4923-ac86-01d45c3463df"> <br>
 
 Please click here to view my interactive dashboard: 
 - <a href="https://public.tableau.com/views/Schools_Analysis_17329432822910/Overview?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard<a/>
