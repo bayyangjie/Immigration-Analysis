@@ -1,5 +1,5 @@
 # Introduction
-With the evolving needs and demands of the educational landscape in Singapore, it is crucial for MOE to formulate policies that are well strategized for providing the highest quality of education in all aspects.
+With the many existing schools across the different levels of education in Singapore, it is all the more essential to provide parents/students with an accurate overview of the school in Singapore for them to select a school that is best suited to their requirements. In this analysis, various metrics are covered which includes location of the schools, single sex or co-ed schools, type of programs offered at the school etc. The aim of the analyis is to provide a comprehensive breakdown of all schools ranging from primary schools to junior colleges.
 
 # About the dataset
 This is a dataset containing general information of schools in Singapore taken from March 2021 to March 2022. The information in the dataset includes address, nearest public transportation of primary, secondary and pre-university schools. 
@@ -13,6 +13,12 @@ Tha aim of the analysis is to form patterns and insights of schools in Singapore
 3. The number of each school type per zone
 4. The number of each education types per zone
 5. The count of each nature type oer school type
+
+## Data Cleaning
+There were some data cleaning steps that were performed prior to the visualizations. 
+- The columns 'Second langugage' and 'Third language' had entries as 'na'. These were converted to actual NULL values for consistency as other NULL entries. The NULL values in these 2 columns were also retained as they provided contextual meaning for schools that only had Chinese as the main language, thus the NULL values for the second and third languages.
+- NULL values were checked for the other variables and none contained NULL values.
+- Check for duplicated rows was also performed and the query returned zero duplicated rows.
 
 ## Datset used
 - <a href="https://github.com/bayyangjie/Tableau-Projects/blob/main/Schools/Schools_php.xls">Schools Data</a>
