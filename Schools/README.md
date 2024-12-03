@@ -8,8 +8,8 @@ This is a dataset containing general information of schools in Singapore taken f
 Tha aim of the analysis is to form patterns and insights of schools in Singapore based on analysis of various metrics that describe the profile of each school.
 
  ## Analysis
-1. What is the spread of nature types amongst the school types ? 
-2. What is the proportions of SAP, Autonomous, Gifted and IP based schools in Singapore ? 
-3. What are the proportions of the different schools based on education types in each zone ? 
-4. The number of each school type based on education levels per zone ?
-5. What is the number of each school type in each zone ?
+1. The spread of education types per town
+2. The number of each school type per town
+3. The number of each school type per zone
+4. The number of each education types per zone
+5. The count of each nature type oer school type
