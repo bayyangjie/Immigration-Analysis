@@ -25,7 +25,7 @@ The same goes for the column variable 'Religion' where entries such as 'All' are
 Throughout the years, Europe and Asia Pacific remain as the two regions with the largest composition of immigrants. The global population of immigrants also show an upward trend from 1990 to 2020. The amount of immigrants (incoming and outgoing) remain relatively flat for North America while the growth of immigrant population shows an increasing trend for the other regions. Asia Pacific and Europe show the largest increases from 1990 to 2020 as compared to the other regions. 
 
 ## Dashboard
-<img width="953" alt="Immigrant screenshot" src="https://github.com/user-attachments/assets/c7f3670b-a3cd-4f40-a460-a84264a51f70">__
+<img width="953" alt="Immigrant screenshot" src="https://github.com/user-attachments/assets/c7f3670b-a3cd-4f40-a460-a84264a51f70">\
 Please click here to access my interactive dashboard:
 <a href="https://public.tableau.com/views/Global_immigrants_analysis/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Global Immigrants</a>
 
