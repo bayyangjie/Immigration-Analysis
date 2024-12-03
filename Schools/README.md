@@ -13,3 +13,6 @@ Tha aim of the analysis is to form patterns and insights of schools in Singapore
 3. The number of each school type per zone
 4. The number of each education types per zone
 5. The count of each nature type oer school type
+
+## Datset used
+- <a href="https://github.com/bayyangjie/Tableau-Projects/blob/main/Schools/Schools_php.xls">Schools Data</a>
