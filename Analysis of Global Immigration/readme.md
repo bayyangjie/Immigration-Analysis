@@ -10,7 +10,7 @@ Migration has grown steadily in recent decades surpassing 280 million which is e
 
 ## About the dataset
 The dataset was retrieved from the Pew Research Centre online database and it contains 9 columns and 26712 rows.
-<a href="https://github.com/bayyangjie/Tableau-Projects/blob/main/Analysis%20of%20Global%20Immigration/df_pew.csv">
+<a href="https://github.com/bayyangjie/Tableau-Projects/blob/main/Analysis%20of%20Global%20Immigration/df_pew.csv">Dataset</a>
 
 ## Data cleaning 
 The first row was deleted and the second row which contains the various column headers was set as the column labels. 
