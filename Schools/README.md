@@ -26,3 +26,6 @@ Tha aim of the analysis is to form patterns and insights of schools in Singapore
   - For the mixed levels education, South has the most number of schools with 5.
 - Most of the government schools are located in the North followed by the West. On the other hand, government-aided schools are mostly located in the South followed by the East.
 - Narrowing down to the nature types of each school type, we can see that government schools (government and government-aided) are mostly co-ed while independent, specialised independent and specialised schools are only either co-ed or girls' school. The number of girls' schools and co-ed schools are the same in all three school types. 
+
+## Dashboard
+<img width="953" alt="tableau screenshot" src="https://github.com/user-attachments/assets/2ca69c27-8fbd-4923-ac86-01d45c3463df">
