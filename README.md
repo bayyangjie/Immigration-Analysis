@@ -27,3 +27,6 @@ git clone https://github.com/bayyangjie/Tableau-Projects.git
 4. Open the project_name.twb file using Tableau Desktop to interact with the dashboard and explore the analysis.
 
 5. Explore the README.md for in-depth project details and context.
+
+Please click here to access my interactive dashboard: 
+- <a href="https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard<a/>
