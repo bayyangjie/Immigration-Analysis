@@ -33,5 +33,4 @@ There were some data cleaning steps that were performed prior to the visualizati
 ## Dashboard
 <img width="953" alt="tableau screenshot" src="https://github.com/user-attachments/assets/2ca69c27-8fbd-4923-ac86-01d45c3463df"> <br>
 
-Please click here to access my interactive dashboard: 
-- <a href="https://public.tableau.com/views/Schools_Analysis_17329432822910/Overview?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard<a/>
+Please click [here](https://public.tableau.com/views/Schools_Analysis_17329432822910/Overview?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my interactive dashboard.
