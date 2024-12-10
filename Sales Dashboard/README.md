@@ -13,6 +13,6 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 - Include a comparison of sales with profit.
 
 ## Weekly Trends for Sales & Profit
-– Present weekly sales and profit data for the current year.
-– Display the average weekly values.
-– Highlight weeks that are above and below the average to draw attention to sales & profit performance.
+- Present weekly sales and profit data for the current year.
+- Display the average weekly values.
+- Highlight weeks that are above and below the average to draw attention to sales & profit performance.
