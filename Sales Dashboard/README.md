@@ -9,8 +9,8 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 – Identify months with highest and lowest sales and make them easy to recognize.
 
 ## Product Subcategory Comparison
-– Compare sales performance by different product subcategories for the current year and the previous year.
-– Include a comparison of sales with profit.
+- Compare sales performance by different product subcategories for the current year and the previous year.
+- Include a comparison of sales with profit.
 
 ## Weekly Trends for Sales & Profit
 – Present weekly sales and profit data for the current year.
