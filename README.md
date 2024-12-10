@@ -1,8 +1,8 @@
 # Tableau Dashboard Repository
 
-![Alt text](tableau-software-logo-5oxtp9rcza9gweeu.png)
-
 Welcome to my Tableau Dashboard repository!
+
+Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my Tableau Public profile. 
 
 # Introduction
 This repository hosts a variety of differnent Tableau dashboard analysis that have been done. The dashboards provide insights to a diverse range of dataset topics. 
@@ -27,5 +27,3 @@ git clone https://github.com/bayyangjie/Tableau-Projects.git
 4. Open the project_name.twb file using Tableau Desktop to interact with the dashboard and explore the analysis.
 
 5. Explore the README.md for in-depth project details and context.
-
-Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my Tableau Public profile. 
