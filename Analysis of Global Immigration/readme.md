@@ -28,6 +28,7 @@ Throughout the years, Europe and Asia Pacific remain as the two regions with the
 ## Dashboard
 <img width="953" alt="Immigrant screenshot" src="https://github.com/user-attachments/assets/c7f3670b-a3cd-4f40-a460-a84264a51f70"> <br>
 
-Please click <a https://public.tableau.com/views/Global_immigrants_analysis/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>here</a> to access my interactive dashboard
+Please click [here](https://public.tableau.com/views/Global_immigrants_analysis/Dashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my interactive dashboard.
+
 
 
