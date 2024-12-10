@@ -2,7 +2,7 @@
 
 Welcome to my Tableau Dashboard repository!
 
-Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my Tableau online profile. 
+Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my Tableau online profile and view my published dashboards.
 
 # Introduction
 This repository hosts a variety of differnent Tableau dashboard analysis that have been done. The dashboards provide insights to a diverse range of dataset topics. 
@@ -16,14 +16,3 @@ data.csv or data.xlsx: The dataset used for analysis.
 presentation.pptx: A PowerPoint presentation summarizing the project's findings.
 README.md: Detailed information about the project, including its objectives and data sources.
 
-# Exploring the Tableau Dashboards
-1. Clone this repository to your local machine:
-git clone https://github.com/bayyangjie/Tableau-Projects.git
-
-2. Navigate to the project folder you are interested in.
-
-3. Examine the dataset files (.xls/.csv) attached to understand the dataset used in the project.
-
-4. Open the project_name.twb file using Tableau Desktop to interact with the dashboard and explore the analysis.
-
-5. Explore the README.md for in-depth project details and context.
