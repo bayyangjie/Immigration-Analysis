@@ -28,4 +28,4 @@ git clone https://github.com/bayyangjie/Tableau-Projects.git
 
 5. Explore the README.md for in-depth project details and context.
 
-Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]to access my Tableau Public profile. 
+Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my Tableau Public profile. 
