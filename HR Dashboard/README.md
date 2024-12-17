@@ -7,7 +7,7 @@ The objectives of the analysis are to
 # About the datset <br>
 The dataset was developed using ChatGPT as well as the Faker library for generating the data.
 
-# HR Summary dashboard <br>
+# HR Summary <br>
 ![Dashboard Screenshot](https://github.com/bayyangjie/Tableau-Projects/blob/main/HR%20Dashboard/HR%20Summary.png) <br>
 ## Overview
 The overview section focuses on providing a snapshot of the overall HR metrics.
@@ -29,7 +29,7 @@ The income analysis section focuses on salary-related metrics, including:
 - Comparing salaries across different education levels for both genders to identify any discrepancies or patterns.
 - Presenting how age correlates with the salary of employees in each department.
 
-# HR Details dashboard <br>
+# HR Details <br>
 ![Dashboard Screenshot](https://github.com/bayyangjie/Tableau-Projects/blob/main/HR%20Dashboard/HR%20Details.png) <br>
 Provides a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary. The dashboard is also developed in a way that enables users to be able to filter the list based on the above mentioned fields.
 
