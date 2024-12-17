@@ -28,10 +28,11 @@ The income analysis section focuses on salary-related metrics, including:
 - Comparing salaries across different education levels for both genders to identify any discrepancies or patterns.
 - Presenting how age correlates with the salary of employees in each department.
 
+![Screenshot of HR Summary Dashboard](https://github.com/bayyangjie/Tableau-Projects/blob/main/HR%20Dashboard/HR%20Summary.png)
+
 # HR Details dashboard <br>
 Provides a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary. The dashboard is also developed in a way that enables users to be able to filter the list based on the above mentioned fields.
 
-![Screenshot of HR Summary Dashboard](https://github.com/bayyangjie/Tableau-Projects/blob/main/HR%20Dashboard/HR%20Summary.png)
 
 
 
