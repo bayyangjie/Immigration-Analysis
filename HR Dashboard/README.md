@@ -4,6 +4,9 @@ The objectives of the analysis are to
 - Provide summary-level views for high level insights related to employee demographics and income analysis.
 - Develop a comprehensive and interactive tableau list that provides easy access to employee records information
 
+# About the datset <br>
+The dataset was developed using ChatGPT as well as the Faker library for generating the data.
+
 # HR Summary dashboard <br>
 
 ## Overview
@@ -25,6 +28,8 @@ The Demographics section offers insights into the composition of the workforce, 
 The income analysis section focuses on salary-related metrics, including:
 - Comparing salaries across different education levels for both genders to identify any discrepancies or patterns.
 - Presenting how age correlates with the salary of employees in each department.
+
+
 
 # HR Details dashboard <br>
 
