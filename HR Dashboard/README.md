@@ -11,10 +11,9 @@ The dataset was developed using ChatGPT as well as the Faker library for generat
 ![Dashboard Screenshot](https://github.com/bayyangjie/Tableau-Projects/blob/main/HR%20Dashboard/HR%20Summary.png) <br>
 ## Overview
 The overview section focuses on providing a snapshot of the overall HR metrics.
-- Displays the total number of hired employees, active employees, and terminated employees.
-- Visualizes the total number of hired and terminated employees over the years.
-- Presents a breakdown of total employees by department and job titles.
-- Compares total employees between headquarters (HQ) and branches (New York is the HQ)
+- A total of 8950 employees were hired by the company and the number of terminated employees is at 966 while the active employees stands at 7984.
+- The Operations Department has the highest number of hired as well as terminated employees. HR, Marketing and Finance departments have the lowest number of employee hired as well as terminated.
+- Most of the employees are located in New York which is the company HQ. 6270 employees are located in the HQ while 2680 are in the branch office.
 - Show the distribution of employees by city and state.
 
 ## Demographics
