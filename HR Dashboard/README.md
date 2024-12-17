@@ -1,5 +1,5 @@
 # Objectives <br>
-The analysis is incorporates the use two dashboards titled "HR Summary" and the "HR Details". 
+The analysis is incorporates the use two separate dashboard sheets titled "HR Summary" and the "HR Details". 
 The objectives of the analysis are to 
 - Provide summary-level views for high level insights related to employee demographics and income analysis.
 - Develop a comprehensive and interactive tableau list that provides easy access to employee records information
