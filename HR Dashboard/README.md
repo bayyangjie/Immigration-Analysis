@@ -8,7 +8,7 @@ The objectives of the analysis are to
 The dataset was developed using ChatGPT as well as the Faker library for generating the data.
 
 # HR Summary dashboard <br>
-![Screenshot of HR Summary Dashboard](https://github.com/bayyangjie/Tableau-Projects/blob/main/HR%20Dashboard/HR%20Summary.png) <br>
+![Dashboard Screenshot](https://github.com/bayyangjie/Tableau-Projects/blob/main/HR%20Dashboard/HR%20Summary.png) <br>
 ## Overview
 The overview section focuses on providing a snapshot of the overall HR metrics.
 - Displays the total number of hired employees, active employees, and terminated employees.
