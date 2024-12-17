@@ -4,7 +4,7 @@ The objectives of the analysis are to
 - Provide summary-level views for high level insights related to employee demographics and income analysis.
 - Develop a comprehensive and interactive tableau list that provides easy access to employee records information
 
-# HR Summary dashboard structure <br>
+# HR Summary dashboard <br>
 
 ## Overview
 The overview section focuses on providing a snapshot of the overall HR metrics.
@@ -26,7 +26,7 @@ The income analysis section focuses on salary-related metrics, including:
 - Comparing salaries across different education levels for both genders to identify any discrepancies or patterns.
 - Presenting how age correlates with the salary of employees in each department.
 
-# HR Details dashboard structure <br>
+# HR Details dashboard <br>
 
 Provides a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary. The dashboard is also developed in a way that enables users to be able to filter the list based on the above mentioned fields.
 
