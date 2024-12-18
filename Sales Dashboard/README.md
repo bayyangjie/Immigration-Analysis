@@ -5,7 +5,7 @@ The two dashboards built in this project are namely the 'Sales Dashboard' and 'C
 
 Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my interactive dashboard on Tableau public.
 
-# Sales Dashboard <br>
+# Sales Dashboard
 The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 
 ## Key Requirements
