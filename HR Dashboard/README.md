@@ -9,6 +9,9 @@ The dataset was developed using ChatGPT as well as the Faker library for generat
 
 # HR Summary <br>
 ![Dashboard Screenshot](https://github.com/bayyangjie/Tableau-Projects/blob/main/HR%20Dashboard/HR%20Summary.png) <br>
+
+The HR Summary dashboard is divided into three main categories namely Overview, Demographics and Income. More details about each section are explained below.
+
 ## Overview
 The overview section focuses on providing a snapshot of the overall HR metrics.
 - A total of 8950 employees were hired by the company and the number of terminated employees is at 966 while the active employees stands at 7984.
@@ -24,9 +27,20 @@ The Demographics section offers insights into the composition of the workforce, 
 - Identifying the correlation between employees’s educational backgrounds and their performance ratings.
 
 ## Income
-The income analysis section focuses on salary-related metrics, including:
-- Comparing salaries across different education levels for both genders to identify any discrepancies or patterns.
-- Presenting how age correlates with the salary of employees in each department.
+The income analysis section shows how average salary levels vary between the correlation of variables such as Education, Gender and Age.
+
+Education & Gender
+- PhD degree holders have the highest average salary and females earn more than the males.
+- Master degree holders have the second highest average salary with females also earning more than the males.
+- For employees with only high school or bachelor degrees, males have higher average salary than the females.
+- The salary gap between males and females is also the highest in employees with PhD degrees with an average difference of $13K.
+- Identify how salary of employees correlates with age among different job titles.
+
+Age & Salary
+- The dotted horizontal and vertical lines demarcate the different quartiles of average salaries amongt the different job titles.
+- Managers tend to have higher average salaries with Finance managers earning the most followed by IT and Sales managers. Managers in these job titles are around the average age of 41 to 49.  
+- HR managers have the lowest average salary as compared to other managerial positions but they belong to the lower average age group of 32.
+- Besides managerial positions, there are also other job titles in the upper salary range such as Sales Consultant, Software Developer and Financial Analyst.
 
 # HR Details <br>
 ![Dashboard Screenshot](https://github.com/bayyangjie/Tableau-Projects/blob/main/HR%20Dashboard/HR%20Details.png) <br>
