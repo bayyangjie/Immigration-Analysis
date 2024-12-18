@@ -52,6 +52,7 @@ This dashboard provides a comprehensive list of all employees information such a
 The dashboard is also developed in a way that enables users to be able to interact with the list through the use of filters located at the top of each column variable.
 
 Colour codings and shapes:<br>
+
 Demographics column
 - The square shape is used to represent males and circle for representing females
 
