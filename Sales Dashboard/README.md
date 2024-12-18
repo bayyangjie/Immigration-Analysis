@@ -4,6 +4,7 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 # Key Requirements 
 
 ## KPI Overview
+- All years showed an increase in Sales, Profits and Quantity except for the Year 
 - Display a summary of total sales, profits and quantity for the current year and the previous year. 
 - Present the data for each KPI on a monthly basis for both the current year and the previous year.
 - Identify months with highest and lowest sales and make them easy to recognize.
@@ -17,4 +18,4 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 - Display the average weekly values.
 - Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
-Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my interactive dashboard
+Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my interactive dashboard on Tableau public.
