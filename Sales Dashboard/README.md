@@ -11,7 +11,7 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 ## Key Requirements
 
 ### KPI Overview
-In this segment, the total sales, profits and quantity are compared between the current (selected) year and the previous year while also identifying the highest and lowest total sales of the selected year.
+In this segment, the total sales, profits and quantity for the current (selected) year and the previous year are compared while also identifying the highest and lowest total sales of the selected year.
 
 Total Sales
 - Only 2020 to 2021 showed a decrease in sales but total sales grew back to back years from 2021 to 2023 with 2021 to 2022 having the highest increment.
