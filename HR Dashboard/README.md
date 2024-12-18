@@ -7,7 +7,7 @@ The objectives of the analysis are to
 # About the datset <br>
 The dataset was developed using ChatGPT as well as the Faker library for generating the data.
 
-Please click [here](https://public.tableau.com/views/HR_Dashboard_17343371058810/HRSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my Tableau online profile and view my published dashboards.
+Please click [here](https://public.tableau.com/views/HR_Dashboard_17343371058810/HRSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access the interactive dashboard on Tableau Public. 
 
 # HR Summary <br>
 ![Dashboard Screenshot](https://github.com/bayyangjie/Tableau-Projects/blob/main/HR%20Dashboard/HR%20Summary.png) <br>
