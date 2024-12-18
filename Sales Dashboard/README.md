@@ -29,7 +29,7 @@ The plots in this segment show the total sales and the profit/loss of each produ
 - The tables subcategory show consistent losses throughout all the 4 years with the highest incurred losses occurring in 2023 at a loss of $8000.
 
 ### Weekly Sales & Profit Trends
-This plot shows the sales and profits of each week in each selected year. Weeks that have sales and profits above average are indicated in blue and weeks that have sales and profits below average are indicated in orange.
+This plot shows the sales and profits of each week in the selected year. Weeks that have sales and profits above average are indicated in blue and weeks that have sales and profits below average are indicated in orange.
 
 - For the sales chart, a common trend for all four years is that sales for the first half of the year tend to be below average and it starts to increase above average towards the end of the year.
 - For the profits chart, the trend shows fairly balanced levels for all weeks throught the year for each of the four years.
