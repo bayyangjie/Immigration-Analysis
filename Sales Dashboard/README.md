@@ -1,5 +1,7 @@
 # Objectives
-Outline the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. The two dashboards are namely the 'Sales Dashboard' and 'Customer Dashboard'.
+Outline the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. 
+
+The two dashboards being built in this project are namely the 'Sales Dashboard' and 'Customer Dashboard'.
 
 Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my interactive dashboard on Tableau public.
 
