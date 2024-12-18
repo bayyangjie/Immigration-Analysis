@@ -23,10 +23,9 @@ The overview section focuses on providing a snapshot of the overall HR metrics.
 
 ## Demographics
 The Demographics section offers insights into the composition of the workforce, including:
-- Presenting the gender ratio in the company.
-- Visualizing the distribution of employees across age groups and education levels.
-- Getting the total number of employees within each age group and education level.
-- Identifying the correlation between employees’s educational backgrounds and their performance ratings.
+- There are more male employees than females employees in the company but not by a large margin.
+- Majority of employees hold a Bachelor's degree while PhD holders form the smallest population. Amongst employees who are Bachelor's degree holders, most are between the age of 35 to 44.
+- Employees with higher education levels also tend to have higher performance ratings. Most high school education employees have the lowest performance rating while most PhD degree employees are given the highest performance rating.
 
 ## Income
 The income analysis section shows how average salary levels vary between the correlation of variables such as Education, Gender and Age.
