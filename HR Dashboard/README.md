@@ -53,7 +53,7 @@ The dashboard is also developed in a way that enables users to be able to intera
 Colour codings and shapes:<br>
 
 Demographics column
-- The square shape is used to represent males and circle for representing females
+- Squares are used to represent males and circles for representing females
 
 Geographics column
 - Green represents locations in the state of New York, the HQ site. Grey represents the other office branches in the other non-HQ states.
