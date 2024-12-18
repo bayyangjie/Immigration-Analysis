@@ -7,6 +7,8 @@ The objectives of the analysis are to
 # About the datset <br>
 The dataset was developed using ChatGPT as well as the Faker library for generating the data.
 
+Please click [here](https://public.tableau.com/app/profile/bay.yang.jie/vizzes) to access my Tableau online profile and view my published dashboards.
+
 # HR Summary <br>
 ![Dashboard Screenshot](https://github.com/bayyangjie/Tableau-Projects/blob/main/HR%20Dashboard/HR%20Summary.png) <br>
 
@@ -45,8 +47,16 @@ Age & Salary
 # HR Details <br>
 ![Dashboard Screenshot](https://github.com/bayyangjie/Tableau-Projects/blob/main/HR%20Dashboard/HR%20Details.png) <br>
 
-The purpose of this dashboard is to provide a comprehensive list of all employees with necessary information such as name, department, position, gender, age, education, and salary. 
+This dashboard provides a comprehensive list of all employees information such as name, department, position, gender, age, education, length of employment, employment status and salary. 
 
-The dashboard is also developed in a way that enables users to be able to filter the list based on the above mentioned fields.
+The dashboard is also developed in a way that enables users to be able to interact with the list through the use of filters located at the top of each column variable.
 
+Colour codings and shapes:
+Demographics column
+- The square shape is used to represent males and circle for representing females
 
+Geographics column
+- Green represents locations in the state of New York, the HQ site. Grey represents the other office branches in the other non-HQ states.
+
+Length of employment column
+- Green represents employees that are hired and are still employed while purple represents employees that have been terminated.
