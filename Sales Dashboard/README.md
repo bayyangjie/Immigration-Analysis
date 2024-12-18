@@ -3,7 +3,7 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 
 # Key Requirements 
 
-## KPI Overview <br>
+## KPI Overview
 Total Sales: <br>
 - Only 2020 to 2021 showed a decrease in sales but total sales grew back to back years from 2021 to 2023 with 2021 to 2022 having the highest increment.
 
