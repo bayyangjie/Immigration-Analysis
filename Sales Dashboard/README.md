@@ -23,7 +23,7 @@ Total Quantity
 - Total sales quantity increased back to back for each of the three years with 2022 to 2023 having the highest increment.
 
 ### Sales and Profit of Product Subcategories
-The plots in this segment show the sales as well as the profit/loss of each product subcategory. The sales analysis is further narrowed down to compare between the selected and previous year.
+The plots in this segment show the total sales and the profit/loss of each product subcategory. The total sales is also further narrowed down to compare between the current and previous year.
 
 - Phones and chairs subcategories have the highest sales consistently each year from 2020 to 2023. Both products also returned profits each year for all four years.
 - The tables subcategory show consistent losses throughout all the 4 years with the highest incurred losses occurring in 2023 at a loss of $8000.
