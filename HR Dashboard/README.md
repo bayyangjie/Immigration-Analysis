@@ -39,9 +39,9 @@ Education & Gender
 
 Age & Salary
 - The dotted horizontal and vertical lines demarcate the average age and annual salary of 41 years old and $78K respectively.
-- Managers have above average salaries with Finance managers earning the most followed by IT and Sales managers. Managers in these job titles are also above the average of 41.  
+- Managers have above average salaries with Finance managers earning the most followed by IT and Sales managers. Managers in these job titles are also above the average age of 41.  
 - HR managers have the lowest average salary as compared to other managerial positions while also above the average salary. On the other hand, they also belong to the younger age group of 32 which is below the average age of 41.
-- Besides managerial positions, there are also employees in other non-managerial job titles such as Sales Consultant, Software Developer and Financial Analyst that are earning a higher than average salary.
+- Besides managerial positions, there are also employees in other non-managerial job titles such as Sales Consultant, Software Developer and Financial Analyst who are earning above the average salary.
 
 # HR Details <br>
 ![Dashboard Screenshot](https://github.com/bayyangjie/Tableau-Projects/blob/main/HR%20Dashboard/HR%20Details.png) <br>
