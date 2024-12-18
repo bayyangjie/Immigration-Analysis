@@ -11,7 +11,7 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 ## Key Requirements
 
 ### KPI Overview
-The metrics namely total sales, profits and quantity are compared between the current (selected) year and the previous year while also identifying the highest and lowest sales of the selected year.
+In this segment, the total sales, profits and quantity are compared between the current (selected) year and the previous year while also identifying the highest and lowest total sales of the selected year.
 
 Total Sales
 - Only 2020 to 2021 showed a decrease in sales but total sales grew back to back years from 2021 to 2023 with 2021 to 2022 having the highest increment.
@@ -29,7 +29,7 @@ The plots in this segment show the sales as well as the profit/loss of each prod
 - The tables subcategory show consistent losses throughout all the 4 years with the highest incurred losses occurring in 2023 at a loss of $8000.
 
 ### Sales & Profit Weekly Trends
-This plot shows the sales and profits of each week in each selected year. Weeks that have sales and profits above average are indicated in blue and for weeks that have sales and profits below average they are indicated in orange.
+This plot shows the sales and profits of each week in each selected year. Weeks that have sales and profits above average are indicated in blue and weeks that have sales and profits below average are indicated in orange.
 
 - For the sales chart, a common trend for all four years is that sales for the first half of the year tend to be below average and it starts to increase above average towards the end of the year.
 - For the profits chart, the trend shows fairly balanced levels for all weeks throught the year for each of the four years.
