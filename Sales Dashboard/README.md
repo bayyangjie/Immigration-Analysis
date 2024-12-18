@@ -28,7 +28,7 @@ The plots in this segment show the sales as well as the profit/loss of each prod
 - Phones and chairs subcategories have the highest sales consistently each year from 2020 to 2023. Both products also returned profits each year for all four years.
 - The tables subcategory show consistent losses throughout all the 4 years with the highest incurred losses occurring in 2023 at a loss of $8000.
 
-### Sales & Profit Weekly Trends
+### Weekly Sales & Profit Trends
 This plot shows the sales and profits of each week in each selected year. Weeks that have sales and profits above average are indicated in blue and weeks that have sales and profits below average are indicated in orange.
 
 - For the sales chart, a common trend for all four years is that sales for the first half of the year tend to be below average and it starts to increase above average towards the end of the year.
