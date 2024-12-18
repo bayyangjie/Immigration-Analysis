@@ -35,7 +35,6 @@ Education & Gender
 - Master degree holders have the second highest average salary with females also earning more than the males.
 - For employees with only high school or bachelor degrees, males have higher average salary than the females.
 - The salary gap between males and females is also the highest in employees with PhD degrees with an average difference of $13K.
-- Identify how salary of employees correlates with age among different job titles.
 
 Age & Salary
 - The dotted horizontal and vertical lines demarcate the average age and annual salary of 41 years old and $78K respectively.
