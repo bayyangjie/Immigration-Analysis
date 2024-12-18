@@ -1,7 +1,9 @@
-# Dashboard Purpose
-The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
+# Objectives
+Outline the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. The two dashboards are namely the 'Sales Dashboard' and 'Customer Dashboard'.
 
-# Key Requirements 
+Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my interactive dashboard on Tableau public.
+
+# Sales Dashboard
 
 ## KPI Overview
 Each of the KPI plot compares different sales data metrics between the current year and the previous year. The highest and lowest KPI values of the selected year are also demarcated on the plots.
@@ -27,4 +29,6 @@ This plot shows the sales and profits of each week in each selected year. Weeks 
 - For the sales chart, a common trend for all four years is that sales for the first half of the year tend to be below average and it starts to increase above average towards the end of the year.
 - For the profits chart, the trend shows fairly balanced levels for all weeks throught the year for each of the four years.
 
-Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my interactive dashboard on Tableau public.
+# Customer Dashboard
+
+
