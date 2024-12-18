@@ -17,4 +17,4 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 - Display the average weekly values.
 - Highlight weeks that are above and below the average to draw attention to sales & profit performance.
 
-Please click [here](https://public.tableau.com/shared/TNBB7GZGC?:display_count=n&:origin=viz_share_link) to access my interactive dashboard
+Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my interactive dashboard
