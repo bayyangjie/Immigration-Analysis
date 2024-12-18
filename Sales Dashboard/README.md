@@ -4,22 +4,27 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 # Key Requirements 
 
 ## KPI Overview
+Each of the KPI plot compares different sales data metrics between the current year and the previous year. The highest and lowest KPI values of the selected year are also demarcated on the plots.
+
 Total Sales
 - Only 2020 to 2021 showed a decrease in sales but total sales grew back to back years from 2021 to 2023 with 2021 to 2022 having the highest increment.
 
 Total Profits
-- 
-- Display a summary of total sales, profits and quantity for the current year and the previous year. 
-- Present the data for each KPI on a monthly basis for both the current year and the previous year.
-- Identify months with highest and lowest sales and make them easy to recognize.
+- Total profits have a positive increment for all three years back to back with 2021 to 2022 having the highest increment.
 
-## Product Subcategory Comparison
-- Compare sales performance by different product subcategories for the current year and the previous year.
-- Include a comparison of sales with profit.
+Total Quantity
+- Total sales quantity increased back to back for each of the three years with 2022 to 2023 having the highest increment.
 
-## Weekly Trends for Sales & Profit
-- Present weekly sales and profit data for the current year.
-- Display the average weekly values.
-- Highlight weeks that are above and below the average to draw attention to sales & profit performance.
+## Sales and Profit by Subcategory
+The plots in this segment show the sales as well as the profit/loss of each product subcategory. The sales analysis is further narrowed down to compare between the selected and previous year.
+
+- Phones and chairs subcategories have the highest sales consistently each year from 2020 to 2023. Both products also returned profits each year for all four years.
+- The tables subcategory show consistent losses throughout all the 4 years with the highest incurred losses occurring in 2023 at a loss of $8000.
+
+## Sales & Profit Trends over Time
+This plot shows the sales and profits of each week in each selected year. Weeks that have sales and profits above average are indicated in blue and for weeks that have sales and profits below average they are indicated in orange.
+
+- For the sales chart, a common trend for all four years is that sales for the first half of the year tend to be below average and it starts to increase above average towards the end of the year.
+- For the profits chart, the trend shows fairly balanced levels for all weeks throught the year for each of the four years.
 
 Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my interactive dashboard on Tableau public.
