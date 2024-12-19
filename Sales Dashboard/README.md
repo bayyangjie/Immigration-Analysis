@@ -40,13 +40,9 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 ## Key Requirements
 
 ### KPI Overview
-This segment provides a summary of total number of customers , total sales per customer and total number of orders for the current year and the previous year.
+This segment provides a summary of total number of customers , total sales per customer and total number of orders for the current year and the previous year. For each of the above mentioned KPI, they are presented on a monthly basis comparing between the current year and the previous year. Months with the highest and lowest sales are also identified. 
 
-- All three metrics showed positive year-to-year increases from 2020 to 2023 except from 2020 to 2021 where total customers recorded a slight drop of -3.7%.
-
-### Customer Trends
-For each of the above mentioned KPI, they are presented on a monthly basis comparing between the current year and the previous year. 
-Months with the highest and lowest sales are also identified. 
+- All three metrics showed positive year-to-year increases from 2020 to 2023 except from 2020 to 2021 where total number of customers recorded a slight drop of -3.7%.
 
 ### Customer Distribution by Number of Orders
 In order to obtain insights into customer behavior, loyalty and engagement, the customer distribution is analyzed based on the number of orders that they have placed. 
