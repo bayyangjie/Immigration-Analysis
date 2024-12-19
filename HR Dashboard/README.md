@@ -1,4 +1,4 @@
-# Objectives <br>
+# HR Project Objectives
 The analysis is incorporates the use two separate dashboard sheets titled "HR Summary" and the "HR Details". 
 The objectives of the analysis are to 
 - Provide summary-level views for high level insights related to employee demographics and income analysis.
