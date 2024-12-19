@@ -3,6 +3,10 @@ The goal of this project is to assist stakeholders, such as sales managers and e
 
 Please click [here](https://public.tableau.com/views/Sales_Project_17345971241480/CustomerDashboard?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access the interactive dashboards available on my Tableau public profile.
 
+# About the dataset
+
+The dataset comprises of four different csv files namely Orders, Customers, Location and Products. The Orders table serves as the root or the primary table in the relationship. The other tables (Customers, Location, and Products) are then logically joined or related to it. 
+
 # Sales Dashboard
 The purpose of the sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 
