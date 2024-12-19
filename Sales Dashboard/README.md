@@ -47,7 +47,7 @@ This segment provides a summary of total number of customers , total sales per c
 ### Customer Distribution by Number of Orders
 In order to obtain insights into customer behavior, loyalty and engagement, the customer distribution is analyzed based on the number of orders that they have placed. 
 
-- For each year from 2020 to 2023, majority of customers make only 1 to 3 purchases.
+- For each year from 2020 to 2023, the number of purchases that majority of customers make is in the range of 1 to 3.
 
 ### Top 10 customers by Profit
 The top 10 customers that generated the highest profit and sales for the company are identified and ranked accordingly together with their total number of orders placed as well as the total sales and profit generated. Their last order dates are also recorded.
