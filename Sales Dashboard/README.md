@@ -7,6 +7,8 @@ Please click [here](https://public.tableau.com/views/Sales_Project_1734597124148
 
 The dataset comprises of four different csv files namely Orders, Customers, Location and Products. The Orders table serves as the root or the primary table in the relationship. The other tables (Customers, Location, and Products) are then logically joined or related to it. 
 
+![Logical relationships of Datasets](https://github.com/bayyangjie/Tableau-Projects/blob/main/Sales%20Dashboard/sales%20dataset.png) <br>
+
 # Sales Dashboard
 The purpose of the sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 
