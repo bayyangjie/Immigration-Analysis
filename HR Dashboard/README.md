@@ -4,7 +4,7 @@ The objectives of the analysis are to
 - Provide summary-level views for high level insights related to employee demographics and income analysis.
 - Develop a comprehensive and interactive tableau list that provides easy access to employee records information
 
-Please click [here](https://public.tableau.com/views/HR_Dashboard_17343371058810/HRSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access the interactive dashboard on Tableau Public. 
+Please click [here](https://public.tableau.com/views/HR_Dashboard_17343371058810/HRSummary?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access the interactive dashboards available on my Tableau public profile.
 
 # About the datset <br>
 The dataset was developed using ChatGPT as well as the Faker library for generating the data.
