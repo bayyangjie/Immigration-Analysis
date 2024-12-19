@@ -35,5 +35,26 @@ This plot shows the sales and profits of each week in the selected year. Weeks t
 - For the profits chart, the trend shows fairly balanced levels for all weeks throught the year for each of the four years.
 
 # Customer Dashboard
+The customer dashboard aims to provide an overview of customer data, trends and behaviors. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
 
+## Key Requirements
 
+### KPI Overview
+This segment provides a summary of total number of customers , total sales per customer and total number of orders for the current year and the previous year.
+
+- All three metrics showed positive year-to-year increases from 2020 to 2023 except during 2020 to 2021 where total customers recorded a slight drop of -3.7%.
+
+### Customer Trends
+For each of the above mentioned KPI, they are presented on a monthly basis comparing between the current year and the previous year. 
+Months with the highest and lowest sales are also identified. 
+
+### Customer Distribution by Number of Orders
+In order to obtain insights into customer behavior, loyalty and engagement, the customer distribution is analyzed based on the number of orders that they have placed. 
+
+- For each year from 2020 to 2023, majority of customers make only 1 to 3 purchases.
+
+### Top 10 customers by Profit
+The top 10 customers that have generated the highest profit for the company are identified together with the ranking, total number of orders placed, total sales and profit generated and last order date.
+
+- The top customer generated the most profit and sales for the company in 2022 at $8765 and $14203 respectively.
+- Comparing the top 10 customers of each year, none of the customers made more than 5 purchases. 
