@@ -42,7 +42,7 @@ The customer dashboard aims to provide an overview of customer data, trends and 
 ### KPI Overview
 This segment provides a summary of total number of customers , total sales per customer and total number of orders for the current year and the previous year.
 
-- All three metrics showed positive year-to-year increases from 2020 to 2023 except during 2020 to 2021 where total customers recorded a slight drop of -3.7%.
+- All three metrics showed positive year-to-year increases from 2020 to 2023 except from 2020 to 2021 where total customers recorded a slight drop of -3.7%.
 
 ### Customer Trends
 For each of the above mentioned KPI, they are presented on a monthly basis comparing between the current year and the previous year. 
