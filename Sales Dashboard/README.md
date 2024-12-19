@@ -1,7 +1,7 @@
 # Sales Project Objectives 
-This aim of this project is to help stakeholders, including sales managers and executives analyze sales performance and customer shopping trends and behaviours. This is achieved through the creation of two dashboards namely the 'Sales Dashboard' and 'Customer Dashboard'.
+The goal of this project is to assist stakeholders, such as sales managers and executives, in evaluating sales performance as well as customer shopping trends and behaviors. This is accomplished by developing two dashboards, specifically the 'Sales Dashboard' and 'Customer Dashboard'.
 
-Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access the interactive dashboards on my Tableau public profile.
+Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access the interactive dashboards available on my Tableau public profile.
 
 # Sales Dashboard
 The purpose of the sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
@@ -34,7 +34,7 @@ This plot shows the sales and profits of each week in the selected year. Weeks t
 - For the profits chart, the trend shows fairly balanced levels for all weeks throught the year for each of the four years.
 
 # Customer Dashboard
-The customer dashboard aims to provide an overview of customer data, trends and behaviors. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
+The customer dashboard aims to provide an overview of customer data, trends and behaviors. This helps in assisting marketing teams and management to better understand customer segments and improve customer satisfaction.
 
 ## Key Requirements
 
