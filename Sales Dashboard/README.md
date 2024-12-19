@@ -1,5 +1,5 @@
 # Sales Project Objectives 
-This aim of this project is to help stakeholders, including sales managers and executives analyze sales performance and customers. This is achieved through the development of two dashboards namely the 'Sales Dashboard' and 'Customer Dashboard'.
+This aim of this project is to help stakeholders, including sales managers and executives analyze sales performance and customer shopping trends and behaviours. This is achieved through the creation of two dashboards namely the 'Sales Dashboard' and 'Customer Dashboard'.
 
 Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access the interactive dashboards on my Tableau public profile.
 
