@@ -1,14 +1,13 @@
-# Objectives
-Outline the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. 
+# Sales Project Objectives 
+This aim of this project is to help stakeholders, including sales managers and executives analyze sales performance and customers. This is achieved through the development of two dashboards namely the 'Sales Dashboard' and 'Customer Dashboard'.
 
-The two dashboards built in this project are namely the 'Sales Dashboard' and 'Customer Dashboard'.
-
-Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access my interactive dashboard on Tableau public.
+Please click [here](https://public.tableau.com/views/Sales_Dashboard_17338076965380/SalesDashboard?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to access the interactive dashboards on my Tableau public profile.
 
 # Sales Dashboard
-The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
+The purpose of the sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 
 ## Key Requirements
+Below are the key requirements that guide the development of the dashboards towards achieving the objectives.
 
 ### KPI Overview
 In this segment, the KPIs (i.e total sales, profits and quantity) for the current (selected) year and the previous year are compared while also identifying the highest and lowest total sales of the selected year.
